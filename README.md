@@ -1,11 +1,9 @@
-### Hi there 👋
-
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 ==========================================================================================================================================
 
 
-My name is Mirian. I work as a Developer at Zup.
+My name is Mirian. I work as a Developer Back-end at Zup.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MirianLuz&repo=MirianLuz&countColorcountColor)
 
