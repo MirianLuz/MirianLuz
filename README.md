@@ -3,7 +3,7 @@
 ==============================================================================
 
 
-My name is Mirian. I work as a Developer Back-end. <img src="https://emojis.slackmojis.com/emojis/images/1612999083/12510/kirby_dance.gif?1612999083" width="30"/>
+My name is Mirian. I work as a Developer Back-end. <img src="https://emojis.slackmojis.com/emojis/images/1614713669/16274/computer_cute.gif?1614713669" width="30"/>
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MirianLuz&repo=MirianLuz&countColorcountColor)
 
